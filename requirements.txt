@@ -1,0 +1,10 @@
+zyphra
+asyncio
+whisper
+jiwer
+librosa
+pystoi
+fastdtw
+scipy
+scipy.spatial.distance
+pandas
