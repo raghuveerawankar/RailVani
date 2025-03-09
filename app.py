@@ -10,7 +10,7 @@ from pystoi import stoi
 from fastdtw import fastdtw
 from scipy.spatial.distance import euclidean
 
-API_KEY = ""  # Replace with your Zyphra API key 
+API_KEY = "zsk-1828271b9905fc6fd01835903489add6af1e35dda073a4eafd5fd97adc187276"  # Replace with your Zyphra API key 
 
 async def generate_speech(text, output_path):
     async with AsyncZyphraClient(api_key=API_KEY) as client:
