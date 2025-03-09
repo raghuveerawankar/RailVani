@@ -1,5 +1,5 @@
 asyncio
-whisper
+openai-whisper
 jiwer
 librosa
 pystoi
