@@ -5,6 +5,5 @@ librosa
 pystoi
 fastdtw
 scipy
-scipy.spatial.distance
 pandas
 zyphra
