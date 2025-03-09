@@ -1,4 +1,3 @@
-asyncio
 openai-whisper
 jiwer
 librosa
