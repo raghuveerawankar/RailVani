@@ -7,3 +7,6 @@ fastdtw
 scipy
 pandas
 zyphra
+ffmpeg
+sox
+numpy
